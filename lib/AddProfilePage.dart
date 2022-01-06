@@ -84,16 +84,7 @@ class AddPersonPage extends StatelessWidget {
                     },
                   ),
 
-// ******************************* Submit ***************************************
-                  // MaterialButton(
-                  //   onPressed: () {
-                  //     if (provider.image == null) return;
-                  //     provider.makePostRequest(profile.username, CreatedByUsername);
-                  //   },
-                  //   color: color,
-                  //   textColor: Colors.white,
-                  //   child: Text('make post request...'),
-                  // ),
+
 
                   SizedBox(
                     height: 10.0,
